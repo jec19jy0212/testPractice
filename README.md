@@ -1,2 +1,2 @@
 # testPractice
-GitHubのリポジトリのダウンロード練習用
+GitHubのリポジトリのダウンロードのテスト（練習）

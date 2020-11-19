@@ -1,4 +1,5 @@
 class HelloWorld {
-  //hogehoge
-   
+	//hogehoge
+	int id;
+	String name;
 }
